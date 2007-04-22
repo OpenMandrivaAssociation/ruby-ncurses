@@ -3,14 +3,14 @@
 %define oname %{rname}-ruby
 
 %define version 1.1
-%define release %mkrel 1
+%define release %mkrel 2
 
 Summary: Ruby interface for the ncurses text library
 Name: %name
 Version: %version
 Release: %release
 License: BSD-like
-Group: Development/Other
+Group: Development/Ruby
 URL: http://ncurses-ruby.berlios.de/
 Source0: %{oname}-%{version}.tar.bz2
 BuildRoot: %{_tmppath}/%{name}-buildroot
