@@ -13,6 +13,7 @@ License: BSD-like
 Group: Development/Ruby
 URL: http://ncurses-ruby.berlios.de/
 Source0: %{oname}-%{version}.tar.bz2
+BuildRoot: %{_tmppath}/%{name}-buildroot
 BuildRequires: ruby-devel ncurses-devel 
 Provides: %{oname}
 
