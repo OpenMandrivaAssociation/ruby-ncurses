@@ -3,7 +3,7 @@
 %define oname %{rname}-ruby
 
 %define version 1.1
-%define release %mkrel 4
+%define release %mkrel 5
 
 Summary: Ruby interface for the ncurses text library
 Name: %name
