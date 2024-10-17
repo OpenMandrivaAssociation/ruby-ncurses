@@ -11,7 +11,7 @@ Version: %version
 Release: %release
 License: LGPLv2+
 Group: Development/Ruby
-URL: http://ncurses-ruby.berlios.de/
+URL: https://ncurses-ruby.berlios.de/
 Source0: http://download.berlios.de/ncurses-ruby/%{oname}-%{version}.tar.bz2
 BuildRoot: %{_tmppath}/%{name}-buildroot
 BuildRequires: ruby-devel ncurses-devel 
